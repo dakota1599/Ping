@@ -1,0 +1,26 @@
+C:\Users\dakot\Desktop\Visual Studio Projects\PingProject\PingProject\bin\Debug\PingProject.exe.config
+C:\Users\dakot\Desktop\Visual Studio Projects\PingProject\PingProject\bin\Debug\PingProject.exe
+C:\Users\dakot\Desktop\Visual Studio Projects\PingProject\PingProject\bin\Debug\PingProject.pdb
+C:\Users\dakot\Desktop\Visual Studio Projects\PingProject\PingProject\obj\Debug\PingProject.csprojResolveAssemblyReference.cache
+C:\Users\dakot\Desktop\Visual Studio Projects\PingProject\PingProject\obj\Debug\PingProject.PingApp.resources
+C:\Users\dakot\Desktop\Visual Studio Projects\PingProject\PingProject\obj\Debug\PingProject.Properties.Resources.resources
+C:\Users\dakot\Desktop\Visual Studio Projects\PingProject\PingProject\obj\Debug\PingProject.csproj.GenerateResource.Cache
+C:\Users\dakot\Desktop\Visual Studio Projects\PingProject\PingProject\obj\Debug\PingProject.csproj.CoreCompileInputs.cache
+C:\Users\dakot\Desktop\Visual Studio Projects\PingProject\PingProject\obj\Debug\PingProject.exe
+C:\Users\dakot\Desktop\Visual Studio Projects\PingProject\PingProject\obj\Debug\PingProject.pdb
+C:\Users\dakot\Desktop\Visual Studio Projects\PingProject\PingProject\obj\Debug\PingProject.Settings.resources
+E:\C#\PingProject\PingProject\obj\Debug\PingProject.PingApp.resources
+E:\C#\PingProject\PingProject\obj\Debug\PingProject.Properties.Resources.resources
+E:\C#\PingProject\PingProject\obj\Debug\PingProject.Settings.resources
+E:\C#\PingProject\PingProject\obj\Debug\PingProject.csproj.GenerateResource.Cache
+E:\C#\PingProject\PingProject\obj\Debug\PingProject.csproj.CoreCompileInputs.cache
+E:\C#\PingProject\PingProject\bin\Debug\Ping.exe.config
+E:\C#\PingProject\PingProject\bin\Debug\Ping.exe.manifest
+E:\C#\PingProject\PingProject\bin\Debug\Ping.application
+E:\C#\PingProject\PingProject\bin\Debug\Ping.exe
+E:\C#\PingProject\PingProject\bin\Debug\Ping.pdb
+E:\C#\PingProject\PingProject\obj\Debug\Ping.exe.manifest
+E:\C#\PingProject\PingProject\obj\Debug\Ping.application
+E:\C#\PingProject\PingProject\obj\Debug\Ping.exe
+E:\C#\PingProject\PingProject\obj\Debug\Ping.pdb
+E:\C#\PingProject\PingProject\obj\Debug\PingProject.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+E:\C#\PingProject\PingProject\obj\Release\PingProject.PingApp.resources
+E:\C#\PingProject\PingProject\obj\Release\PingProject.Properties.Resources.resources
+E:\C#\PingProject\PingProject\obj\Release\PingProject.Settings.resources
+E:\C#\PingProject\PingProject\obj\Release\PingProject.csproj.GenerateResource.cache
+E:\C#\PingProject\PingProject\obj\Release\PingProject.csproj.CoreCompileInputs.cache
+E:\C#\PingProject\PingProject\bin\Release\Ping.exe.config
+E:\C#\PingProject\PingProject\bin\Release\Ping.exe.manifest
+E:\C#\PingProject\PingProject\bin\Release\Ping.application
+E:\C#\PingProject\PingProject\bin\Release\Ping.exe
+E:\C#\PingProject\PingProject\bin\Release\Ping.pdb
+E:\C#\PingProject\PingProject\obj\Release\Ping.exe.manifest
+E:\C#\PingProject\PingProject\obj\Release\Ping.application
+E:\C#\PingProject\PingProject\obj\Release\Ping.exe
+E:\C#\PingProject\PingProject\obj\Release\Ping.pdb
+E:\C#\PingProject\PingProject\obj\Release\PingProject.csprojResolveAssemblyReference.cache
